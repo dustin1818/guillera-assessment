@@ -1,0 +1,81 @@
+::ng-deep .fc-event-title {
+  color: black !important;
+  font-weight: 500;
+}
+
+::ng-deep .fc-scroller {
+  overflow: hidden !important;
+  height: auto;
+}
+
+::ng-deep .fc-scroller-liquid-absolute {
+  height: auto;
+  overflow: scroll !important;
+}
+
+::ng-deep .fc-timegrid-event-harness {
+  background-color: rgb(233, 213, 255);
+  border-radius: 6px;
+  padding: 0;
+  padding: 6px;
+  height: 30px;
+}
+
+::ng-deep .fc-timegrid-slot {
+  height: 95px !important;
+}
+
+::ng-deep .fc-timegrid-event {
+  border: none !important;
+  padding: 8px !important;
+}
+
+::ng-deep .fc-toolbar-title {
+  font-size: 1.2rem !important;
+}
+
+::ng-deep .fc-col-header-cell {
+  padding: 16px 24px !important;
+  background-color: white;
+}
+
+::ng-deep .fc-col-header-cell-cushion {
+  color: #616161;
+  font-size: 16px;
+}
+
+::ng-deep .fc-timegrid-col {
+  padding: 0 !important;
+}
+
+::ng-deep .fc-timegrid-slot-label {
+  padding: 0 16px !important;
+  border: 0;
+  vertical-align: top !important;
+}
+
+::ng-deep .fc-timegrid-slot-label-cushion {
+  font-size: 14px;
+  color: #757575;
+  margin-top: -12px;
+  text-transform: uppercase;
+}
+
+@media (max-width: 768px) {
+  :host ::ng-deep .fc {
+    font-size: 0.875rem;
+  }
+
+  :host ::ng-deep .fc .fc-toolbar {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  :host ::ng-deep .fc-event {
+    font-size: 0.75rem;
+  }
+
+  :host ::ng-deep .fc-timegrid-slot-label {
+    font-size: 0.75rem;
+  }
+}

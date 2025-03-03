@@ -1,0 +1,172 @@
+{
+  "schedules": [
+    {
+      "id": "1",
+      "address": "45 Habitat Boulevard",
+      "employeeName": "John Smith",
+      "position": "Plumber",
+      "scheduleTime": {
+        "start": "2025-03-08T06:00:00",
+        "end": "2025-03-08T06:30:00"
+      },
+      "date": "2025-03-08",
+      "color": "rgb(191, 219, 254)"
+    },
+    {
+      "id": "2",
+      "address": "124 Winners Hill Road",
+      "employeeName": "Emma Davis",
+      "position": "Electrician",
+      "scheduleTime": {
+        "start": "2025-03-08T07:00:00",
+        "end": "2025-03-08T07:30:00"
+      },
+      "date": "2025-03-08",
+      "color": "rgb(233, 213, 255)"
+    },
+    {
+      "id": "3",
+      "address": "58 Jabiru Avenue",
+      "employeeName": "Mike Wilson",
+      "position": "Carpenter",
+      "scheduleTime": {
+        "start": "2025-03-08T08:00:00",
+        "end": "2025-03-08T08:30:00"
+      },
+      "date": "2025-03-08",
+      "color": "rgb(254, 240, 138)"
+    },
+    {
+      "id": "4",
+      "address": "25 Poitier St, McDowall",
+      "employeeName": "Sarah Johnson",
+      "position": "Painter",
+      "scheduleTime": {
+        "start": "2025-03-09T07:00:00",
+        "end": "2025-03-09T07:30:00"
+      },
+      "date": "2025-03-09",
+      "color": "rgb(191, 219, 254)"
+    },
+    {
+      "id": "5",
+      "address": "58 Jabiru Avenue",
+      "employeeName": "John Smith",
+      "position": "Plumber",
+      "scheduleTime": {
+        "start": "2025-03-09T09:00:00",
+        "end": "2025-03-09T09:30:00"
+      },
+      "date": "2025-03-09",
+      "color": "rgb(254, 240, 138)"
+    },
+    {
+      "id": "6",
+      "address": "124 Winners Hill Road",
+      "employeeName": "Emma Davis",
+      "position": "Electrician",
+      "scheduleTime": {
+        "start": "2025-03-10T08:00:00",
+        "end": "2025-03-10T08:30:00"
+      },
+      "date": "2025-03-10",
+      "color": "rgb(233, 213, 255)"
+    },
+    {
+      "id": "7",
+      "address": "92 Palm Street",
+      "employeeName": "Mike Wilson",
+      "position": "Carpenter",
+      "scheduleTime": {
+        "start": "2025-03-11T10:00:00",
+        "end": "2025-03-11T10:30:00"
+      },
+      "date": "2025-03-11",
+      "color": "rgb(254, 240, 138)"
+    },
+    {
+      "id": "8",
+      "address": "15 Marina View",
+      "employeeName": "Sarah Johnson",
+      "position": "Painter",
+      "scheduleTime": {
+        "start": "2025-03-12T09:00:00",
+        "end": "2025-03-12T09:30:00"
+      },
+      "date": "2025-03-12",
+      "color": "rgb(191, 219, 254)"
+    },
+    {
+      "id": "9",
+      "address": "33 Hillside Drive",
+      "employeeName": "John Smith",
+      "position": "Plumber",
+      "scheduleTime": {
+        "start": "2025-03-13T11:00:00",
+        "end": "2025-03-13T11:30:00"
+      },
+      "date": "2025-03-13",
+      "color": "rgb(191, 219, 254)"
+    },
+    {
+      "id": "10",
+      "address": "77 Beach Road",
+      "employeeName": "Emma Davis",
+      "position": "Electrician",
+      "scheduleTime": {
+        "start": "2025-03-14T08:00:00",
+        "end": "2025-03-14T08:30:00"
+      },
+      "date": "2025-03-14",
+      "color": "rgb(233, 213, 255)"
+    },
+    {
+      "id": "11",
+      "address": "45 Garden Street",
+      "employeeName": "Mike Wilson",
+      "position": "Carpenter",
+      "scheduleTime": {
+        "start": "2025-03-15T07:00:00",
+        "end": "2025-03-15T07:30:00"
+      },
+      "date": "2025-03-15",
+      "color": "rgb(254, 240, 138)"
+    },
+    {
+      "id": "12",
+      "address": "88 River View",
+      "employeeName": "Sarah Johnson",
+      "position": "Painter",
+      "scheduleTime": {
+        "start": "2025-03-16T10:00:00",
+        "end": "2025-03-16T10:30:00"
+      },
+      "date": "2025-03-16",
+      "color": "rgb(191, 219, 254)"
+    },
+    {
+      "id": "13",
+      "address": "120 Mountain Road",
+      "employeeName": "John Smith",
+      "position": "Plumber",
+      "scheduleTime": {
+        "start": "2025-03-17T09:00:00",
+        "end": "2025-03-17T09:30:00"
+      },
+      "date": "2025-03-17",
+      "color": "rgb(191, 219, 254)"
+    },
+    {
+      "id": "14",
+      "address": "55 Valley Way",
+      "employeeName": "Emma Davis",
+      "position": "Electrician",
+      "scheduleTime": {
+        "start": "2025-03-18T11:00:00",
+        "end": "2025-03-18T11:30:00"
+      },
+      "date": "2025-03-18",
+      "color": "rgb(233, 213, 255)"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<nav class="flex space-x-4 border-b border-gray-200">
+    @for (item of navItems; track item.path) {
+    <a [routerLink]="item.path" routerLinkActive="text-blue-600 font-medium border-b-2 border-blue-600"
+        class="text-gray-600 hover:text-gray-900 pb-4 px-2">
+        {{ item.label }}
+    </a>
+    }
+</nav>
