@@ -71,8 +71,22 @@
     gap: 1rem;
   }
 
+  ::ng-deep .fc-col-header-cell {
+    padding: 4px !important;
+    background-color: white;
+  }
+
+  ::ng-deep .fc-col-header-cell-cushion {
+    color: #616161;
+    font-size: 13px;
+  }
+
   :host ::ng-deep .fc-event {
     font-size: 0.75rem;
+  }
+
+  ::ng-deep .fc-timegrid-slot {
+    height: 35px !important;
   }
 
   :host ::ng-deep .fc-timegrid-slot-label {
